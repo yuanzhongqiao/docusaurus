@@ -1,123 +1,104 @@
-<div align="center">
-  <h1 align="center">
-    Docusaurus
-    <br />
-    <br />
-    <a href="https://docusaurus.io">
-      <img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus">
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+  <div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font _mstmutation="1" _msttexthash="12160551" _msthash="376">Docusaurus 文档</font><br>
+    <br>
+    <a href="https://docusaurus.io" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/d57e7527e78029109efef32f0b88dc9e7f2d8c9e8d4cee346c630202f21a28df/68747470733a2f2f646f63757361757275732e696f2f696d672f736c6173682d696e74726f647563696e672e737667" alt="Docusaurus 文档" data-canonical-src="https://docusaurus.io/img/slash-introducing.svg" style="max-width: 100%;" _mstalt="163358" _msthash="375">
     </a>
-  </h1>
+  </h1><a id="user-content-----docusaurus------------------------" class="anchor" aria-label="永久链接：
+ Docusaurus 文档" href="#----docusaurus------------------------" _mstaria-label="449163" _msthash="377"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 </div>
-
-<p align="center">
-  <a href="https://x.com/docusaurus"><img src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" align="right" alt="Twitter Follow" /></a>
-  <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/backers/badge.svg" /></a>
-  <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/sponsors/badge.svg" /></a>
-  <a href="https://www.npmjs.com/package/@docusaurus/core"><img src="https://img.shields.io/npm/v/@docusaurus/core.svg?style=flat" alt="npm version"></a>
-  <a href="https://github.com/facebook/docusaurus/actions/workflows/tests.yml"><img src="https://github.com/facebook/docusaurus/actions/workflows/tests.yml/badge.svg" alt="GitHub Actions status"></a>
-  <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
-  <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/discord/102860784329052160.svg" align="right" alt="Discord Chat" /></a>
-  <a href= "https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg"></a>
-  <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a>
-  <a href="https://github.com/facebook/jest"><img src="https://img.shields.io/badge/tested_with-jest-99424f.svg" alt="Tested with Jest"></a>
-  <a href="https://argos-ci.com" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos"><img src="https://argos-ci.com/badge.svg" alt="Covered by Argos" width="133" height="20" /></a>
-  <a href="https://gitpod.io/#https://github.com/facebook/docusaurus"><img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready-to-Code"/></a>
-  <a href="https://app.netlify.com/sites/docusaurus-2/deploys"><img src="https://api.netlify.com/api/v1/badges/9e1ff559-4405-4ebe-8718-5e21c0774bc8/deploy-status" alt="Netlify Status"></a>
-  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffacebook%2Fdocusaurus%2Ftree%2Fmain%2Fexamples%2Fclassic&project-name=my-docusaurus-site&repo-name=my-docusaurus-site"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
-  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/slorber/docusaurus-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<p align="center" dir="auto">
+  <a href="https://x.com/docusaurus" rel="nofollow"><img src="https://camo.githubusercontent.com/cafe6a44052c651b78397254d94d9b4df7aacb5c1a9ce8c136dd3dabacb76108/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f646f63757361757275732e7376673f7374796c653d736f6369616c" align="right" alt="Twitter 关注" data-canonical-src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" style="max-width: 100%;" _mstalt="235079" _msthash="378"></a>
+  <a href="#backers" alt="sponsors on Open Collective"><img src="https://camo.githubusercontent.com/22eee75932e7a7b84b330509cbad597d2ee41e247def70e9a69ce1b5d7940017/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f446f63757361757275732f6261636b6572732f62616467652e737667" data-canonical-src="https://opencollective.com/Docusaurus/backers/badge.svg" style="max-width: 100%;"></a>
+  <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://camo.githubusercontent.com/6de96dc4c9a2d15e5e06dc3cebfbb6614393534c3c3efca6860bd29805166d18/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f446f63757361757275732f73706f6e736f72732f62616467652e737667" data-canonical-src="https://opencollective.com/Docusaurus/sponsors/badge.svg" style="max-width: 100%;"></a>
+  <a href="https://www.npmjs.com/package/@docusaurus/core" rel="nofollow"><img src="https://camo.githubusercontent.com/336d9450f339280328abe72a4c5f5c2da3102427e84d98f5829c930db069b05e/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f40646f63757361757275732f636f72652e7376673f7374796c653d666c6174" alt="npm 版本" data-canonical-src="https://img.shields.io/npm/v/@docusaurus/core.svg?style=flat" style="max-width: 100%;" _mstalt="165048" _msthash="379"></a>
+  <a href="https://github.com/facebook/docusaurus/actions/workflows/tests.yml"><img src="https://github.com/facebook/docusaurus/actions/workflows/tests.yml/badge.svg" alt="GitHub Actions 状态" style="max-width: 100%;" _mstalt="422344" _msthash="380"></a>
+  <a href="/facebook/docusaurus/blob/main/CONTRIBUTING.md#pull-requests"><img src="https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667" alt="欢迎 PR" data-canonical-src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" style="max-width: 100%;" _mstalt="151060" _msthash="381"></a>
+  <a href="https://discord.gg/docusaurus" rel="nofollow"><img src="https://camo.githubusercontent.com/980125d690d5ff8ffef9695ddd5c1ca2a16af9a45e89b043078e2e15b5261bd1/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3130323836303738343332393035323136302e737667" align="right" alt="Discord 聊天" data-canonical-src="https://img.shields.io/discord/102860784329052160.svg" style="max-width: 100%;" _mstalt="172276" _msthash="382"></a>
+  <a href="https://github.com/prettier/prettier"><img alt="代码样式： Prettier" src="https://camo.githubusercontent.com/754faf8c130f602a98f87fd2912a8d4b9bcf8ab623fa9ac3352853015968cdb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64655f7374796c652d70726574746965722d6666363962342e737667" data-canonical-src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" style="max-width: 100%;" _mstalt="385788" _msthash="383"></a>
+  <a href="#license"><img src="https://camo.githubusercontent.com/74d3a10eeae3c9fa6b06f901a0032ce7f19a3439accc0b837b8112fbc123054e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f68616c6c2d6f662d66616d652e7376673f636f6c6f72423d666630303030" data-canonical-src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000" style="max-width: 100%;"></a>
+  <a href="https://github.com/facebook/jest"><img src="https://camo.githubusercontent.com/34369befc8c6020c277601f2167db2a9789514694bbd4b64c8589995df5d30c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465737465645f776974682d6a6573742d3939343234662e737667" alt="使用 Jest 测试" data-canonical-src="https://img.shields.io/badge/tested_with-jest-99424f.svg" style="max-width: 100%;" _mstalt="258752" _msthash="384"></a>
+  <a href="https://argos-ci.com" aria-label="由 Argos 覆盖" rel="nofollow" _mstaria-label="255099" _msthash="390"><img src="https://camo.githubusercontent.com/17126a54eb44f3e38feb0f6edde94f21ee57f8dc0e6ea76896a33e6ab0736d70/68747470733a2f2f6172676f732d63692e636f6d2f62616467652e737667" alt="由 Argos 覆盖" width="133" height="20" data-canonical-src="https://argos-ci.com/badge.svg" style="max-width: 100%;" _mstalt="255099" _msthash="385"></a>
+  <a href="https://gitpod.io/#https://github.com/facebook/docusaurus" rel="nofollow"><img src="https://camo.githubusercontent.com/e4e3e01aa9d0e6c58de411253ad5ffd73074f989b9363a8f01d64fb62d09a662/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476974706f642d52656164792d2d746f2d2d436f64652d626c75653f6c6f676f3d676974706f64" alt="Gitpod 准备编码" data-canonical-src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" style="max-width: 100%;" _mstalt="372385" _msthash="386"></a>
+  <a href="https://app.netlify.com/sites/docusaurus-2/deploys" rel="nofollow"><img src="https://camo.githubusercontent.com/7c60e740556a71d79564d74ca891a3702c466f8b80df7b5406e1aaf26a99b77e/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f39653166663535392d343430352d346562652d383731382d3565323163303737346263382f6465706c6f792d737461747573" alt="Netlify 状态" data-canonical-src="https://api.netlify.com/api/v1/badges/9e1ff559-4405-4ebe-8718-5e21c0774bc8/deploy-status" style="max-width: 100%;" _mstalt="235911" _msthash="387"></a>
+  <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffacebook%2Fdocusaurus%2Ftree%2Fmain%2Fexamples%2Fclassic&amp;project-name=my-docusaurus-site&amp;repo-name=my-docusaurus-site" rel="nofollow"><img src="https://camo.githubusercontent.com/20bea215d35a4e28f2c92ea5b657d006b087687486858a40de2922a4636301ab/68747470733a2f2f76657263656c2e636f6d2f627574746f6e" alt="使用 Vercel 进行部署" data-canonical-src="https://vercel.com/button" style="max-width: 100%;" _mstalt="317057" _msthash="388"></a>
+  <a href="https://app.netlify.com/start/deploy?repository=https://github.com/slorber/docusaurus-starter" rel="nofollow"><img src="https://camo.githubusercontent.com/8ef0cc1d083b2d67eb72500031401d9b52c3ecb9fb4c4405f46afd0d0aba02d6/68747470733a2f2f7777772e6e65746c6966792e636f6d2f696d672f6465706c6f792f627574746f6e2e737667" alt="部署到 Netlify" data-canonical-src="https://www.netlify.com/img/deploy/button.svg" style="max-width: 100%;" _mstalt="291005" _msthash="389"></a>
 </p>
-
-## Introduction
-
-Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
-
-Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusaurus.io)!
-
-**Tip**: use **[docusaurus.new](https://docusaurus.new)** to test Docusaurus immediately in a playground.
-
-- **Simple to Start**
-
-> Docusaurus is built in a way so that it can [get running](https://docusaurus.io/docs/installation) in as little time as possible. We've built Docusaurus to handle the website build process so you can focus on your project.
-
-- **Localizable**
-
-> Docusaurus ships with [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
-
-- **Customizable**
-
-> While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
-
-## Installation
-
-Use the initialization CLI to create your site:
-
-```bash
-npm init docusaurus@latest
-```
-
-[Read the docs](https://docusaurus.io/docs/installation) for any further information.
-
-## Contributing
-
-We've released Docusaurus because it helps us better scale and supports the many OSS projects at Meta. We hope that other organizations can benefit from the project. We are thankful for any contributions from the community.
-
-### [Code of Conduct](https://code.fb.com/codeofconduct)
-
-Meta has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the full text](https://code.fb.com/codeofconduct) so that you can understand what actions will and will not be tolerated.
-
-### Contributing guide
-
-Read our [contributing guide](https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to Docusaurus.
-
-### Beginner-friendly bugs
-
-To help you get your feet wet and get you familiar with our contribution process, we have a list of [beginner-friendly bugs](https://github.com/facebook/docusaurus/labels/good%20first%20issue) that might contain smaller issues to tackle first. This is a great place to get started.
-
-## Contact
-
-We have a few channels for contact:
-
-- [Discord](https://discord.gg/docusaurus):
-  - `#general` for those using Docusaurus.
-  - `#contributors` for those wanting to contribute to the Docusaurus core.
-- [@docusaurus](https://x.com/docusaurus) X
-- [GitHub Issues](https://github.com/facebook/docusaurus/issues)
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/facebook/docusaurus/graphs/contributors"><img src="https://opencollective.com/Docusaurus/contributors.svg?width=890&button=false" /></a>
-
-## Backers
-
-Thank you to all our backers! 🙏 [Become a backer](https://opencollective.com/Docusaurus#backer)
-
-<a href="https://opencollective.com/Docusaurus#backers" target="_blank"><img src="https://opencollective.com/Docusaurus/backers.svg?width=890"></a>
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/Docusaurus#sponsor)
-
-<a href="https://opencollective.com/Docusaurus/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/0/avatar.svg"></a> <a href="https://opencollective.com/Docusaurus/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Docusaurus/sponsor/1/avatar.svg"></a>
-
-## License
-
-Docusaurus is [MIT licensed](./LICENSE).
-
-The Docusaurus documentation (e.g., `.md` files in the `/docs` folder) is [Creative Commons licensed](./LICENSE-docs).
-
-## Special thanks
-
-<p>
-  <a href="http://www.browserstack.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
-      <img alt="BrowserStack logo" src="./admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" />
-    </picture>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5211505" _msthash="391">介绍</h2><a id="user-content-introduction" class="anchor" aria-label="永久链接： 简介" href="#introduction" _mstaria-label="523835" _msthash="392"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="264411563" _msthash="393">Docusaurus 是一个用于轻松构建、部署和维护开源项目网站的项目。</p>
+<p dir="auto" _msttexthash="127362326" _msthash="394">时间不够用？查看我们的 <a href="https://tutorial.docusaurus.io" rel="nofollow" _istranslated="1">5 分钟教程⏱️</a>！</p>
+<p dir="auto" _msttexthash="99924773" _msthash="395"><strong _istranslated="1">提示</strong>：使用 <strong _istranslated="1"><a href="https://docusaurus.new" rel="nofollow" _istranslated="1">docusaurus.new</a></strong> 立即在 Playground 中测试 Docusaurus。</p>
+<ul dir="auto">
+<li><strong _msttexthash="10303111" _msthash="396">易于开始</strong></li>
+</ul>
+<blockquote>
+<p dir="auto" _msttexthash="790475829" _msthash="397">Docusaurus 的构建方式使其可以在尽可能短的时间内<a href="https://docusaurus.io/docs/installation" rel="nofollow" _istranslated="1">运行</a>。我们构建了 Docusaurus 来处理网站构建过程，因此您可以专注于您的项目。</p>
+</blockquote>
+<ul dir="auto">
+<li><strong _msttexthash="10078705" _msthash="398">可本地化</strong></li>
+</ul>
+<blockquote>
+<p dir="auto" _msttexthash="406511599" _msthash="399">Docusaurus 通过 CrowdIn 提供<a href="https://docusaurus.io/docs/i18n/introduction" rel="nofollow" _istranslated="1">本地化支持</a>。通过翻译您的文档来增强和发展您的国际社区。</p>
+</blockquote>
+<ul dir="auto">
+<li><strong _msttexthash="4322734" _msthash="400">定制</strong></li>
+</ul>
+<blockquote>
+<p dir="auto" _msttexthash="1060830290" _msthash="401">虽然 Docusaurus 提供了入门所需的关键页面和部分，包括主页、文档部分、<a href="https://docusaurus.io/docs/blog" rel="nofollow" _istranslated="1">博客</a>和其他支持页面，但它也是<a href="https://docusaurus.io/docs/creating-pages" rel="nofollow" _istranslated="1">可定制的</a>，以确保你拥有<a href="https://docusaurus.io/docs/styling-layout" rel="nofollow" _istranslated="1">一个独一无二的网站</a>。</p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5773755" _msthash="402">安装</h2><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation" _mstaria-label="519259" _msthash="403"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="52486434" _msthash="404">使用初始化 CLI 创建站点：</p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>npm init docusaurus@latest</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npm init docusaurus@latest" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto" _msttexthash="47556067" _msthash="405"><a href="https://docusaurus.io/docs/installation" rel="nofollow" _istranslated="1">阅读文档</a>以了解更多信息。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="406">贡献</h2><a id="user-content-contributing" class="anchor" aria-label="永久链接： 贡献" href="#contributing" _mstaria-label="521066" _msthash="407"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="919295832" _msthash="408">我们发布了 Docusaurus，因为它帮助我们更好地扩展并支持 Meta 的许多 OSS 项目。我们希望其他组织可以从该项目中受益。我们感谢社区的任何贡献。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><a href="https://code.fb.com/codeofconduct" rel="nofollow" _msttexthash="10439364" _msthash="409">行为准则</a></h3><a id="user-content-code-of-conduct" class="anchor" aria-label="永久链接： 行为准则" href="#code-of-conduct" _mstaria-label="542971" _msthash="410"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="650461799" _msthash="411">Meta 已采纳了我们希望项目参与者遵守的行为准则。请阅读<a href="https://code.fb.com/codeofconduct" rel="nofollow" _istranslated="1">全文</a>，以便您了解哪些行为将被容忍，哪些行为将不被容忍。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="12093900" _msthash="412">贡献指南</h3><a id="user-content-contributing-guide" class="anchor" aria-label="永久链接：贡献指南" href="#contributing-guide" _mstaria-label="732771" _msthash="413"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="563929249" _msthash="414">阅读我们的<a href="https://github.com/facebook/docusaurus/blob/main/CONTRIBUTING.md" _istranslated="1">贡献指南</a>，了解我们的开发流程，如何提出错误修复和改进建议，以及如何构建和测试您对 Docusaurus 的更改。</p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="19036342" _msthash="415">初学者友好的 bug</h3><a id="user-content-beginner-friendly-bugs" class="anchor" aria-label="永久链接：对初学者友好的 bug" href="#beginner-friendly-bugs" _mstaria-label="910442" _msthash="416"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="685523124" _msthash="417">为了帮助您熟悉我们的贡献流程，我们列出了<a href="https://github.com/facebook/docusaurus/labels/good%20first%20issue" _istranslated="1">适合初学者的 bug，</a>其中可能包含需要首先解决的小问题。这是一个很好的起点。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6317012" _msthash="418">联系</h2><a id="user-content-contact" class="anchor" aria-label="永久链接： 联系我们" href="#contact" _mstaria-label="334295" _msthash="419"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="62385791" _msthash="420">我们有几个联系方式渠道：</p>
+<ul dir="auto">
+<li><font _mstmutation="1" _msttexthash="16754179" _msthash="421"><a href="https://discord.gg/docusaurus" rel="nofollow" _mstmutation="1" _istranslated="1">不和谐</a>：</font><ul dir="auto">
+<li><code>#general</code><font _mstmutation="1" _msttexthash="45477952" _msthash="422">适用于使用 Docusaurus 的用户。</font></li>
+<li><code>#contributors</code><font _mstmutation="1" _msttexthash="95171986" _msthash="423">对于那些想为 Docusaurus 核心做出贡献的人。</font></li>
+</ul>
+</li>
+<li _msttexthash="207012" _msthash="424"><a href="https://x.com/docusaurus" rel="nofollow" _istranslated="1">@docusaurus</a>X</li>
+<li><a href="https://github.com/facebook/docusaurus/issues" _msttexthash="13668538" _msthash="425">GitHub 问题</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="426">贡献</h2><a id="user-content-contributors" class="anchor" aria-label="永久链接： 贡献者" href="#contributors" _mstaria-label="528866" _msthash="427"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font _mstmutation="1" _msttexthash="132622100" _msthash="428">这个项目的存在要感谢所有做出贡献的人。[<a href="/facebook/docusaurus/blob/main/CONTRIBUTING.md" _mstmutation="1" _istranslated="1">贡献</a>]。</font><a href="https://github.com/facebook/docusaurus/graphs/contributors"><img src="https://camo.githubusercontent.com/d75b37c592ccee9d534d88394a9515ee6e072b775b069b3561baec2131847296/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f446f63757361757275732f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365" data-canonical-src="https://opencollective.com/Docusaurus/contributors.svg?width=890&amp;button=false" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="8827494" _msthash="429">支持者</h2><a id="user-content-backers" class="anchor" aria-label="永久链接：支持者" href="#backers" _mstaria-label="330824" _msthash="430"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="119513030" _msthash="431">感谢我们所有的支持者！🙏 <a href="https://opencollective.com/Docusaurus#backer" rel="nofollow" _istranslated="1">成为支持者</a></p>
+<p dir="auto"><a href="https://opencollective.com/Docusaurus#backers" rel="nofollow"><img src="https://camo.githubusercontent.com/c2f4e3acf66a79d14ad500c790808047a6789c9784b45a827bb1199e8e8c9954/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f446f63757361757275732f6261636b6572732e7376673f77696474683d383930" data-canonical-src="https://opencollective.com/Docusaurus/backers.svg?width=890" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="8048144" _msthash="432">赞助商</h2><a id="user-content-sponsors" class="anchor" aria-label="永久链接： 赞助商" href="#sponsors" _mstaria-label="380380" _msthash="433"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="408885165" _msthash="434">通过成为赞助商来支持此项目。您的 logo 将在此处显示，并带有指向您网站的链接。<a href="https://opencollective.com/Docusaurus#sponsor" rel="nofollow" _istranslated="1">成为赞助商</a></p>
+<p dir="auto"><a href="https://opencollective.com/Docusaurus/sponsor/0/website" rel="nofollow"><img src="https://camo.githubusercontent.com/ea1c632f8c81834cf8bb43cab1db53438ffe3f6192d5717f4e1413bb52ea6014/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f446f63757361757275732f73706f6e736f722f302f6176617461722e737667" data-canonical-src="https://opencollective.com/Docusaurus/sponsor/0/avatar.svg" style="max-width: 100%;"></a> <a href="https://opencollective.com/Docusaurus/sponsor/1/website" rel="nofollow"><img src="https://camo.githubusercontent.com/caeb09453197f8e3ac5287ab5dfe2b9a724dc18d65ef796e50d9654c2bd9b185/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f446f63757361757275732f73706f6e736f722f312f6176617461722e737667" data-canonical-src="https://opencollective.com/Docusaurus/sponsor/1/avatar.svg" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9675445" _msthash="435">许可证</h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license" _mstaria-label="331903" _msthash="436"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="34818472" _msthash="437">Docusaurus 是 <a href="/facebook/docusaurus/blob/main/LICENSE" _istranslated="1">MIT 许可</a>的。</p>
+<p dir="auto"><font _mstmutation="1" _msttexthash="190545693" _msthash="438">Docusaurus 文档（例如文件夹中的文件）是 <a href="/facebook/docusaurus/blob/main/LICENSE-docs" _mstmutation="1" _istranslated="1">Creative Commons 许可</a>的。</font><code>.md</code><code>/docs</code></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="14254526" _msthash="439">特别鸣谢</h2><a id="user-content-special-thanks" class="anchor" aria-label="永久链接：特别鸣谢" href="#special-thanks" _mstaria-label="554333" _msthash="440"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">
+  <a href="http://www.browserstack.com/" rel="nofollow">
+    <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="/facebook/docusaurus/raw/main/admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
+      <img alt="BrowserStack 徽标" src="/facebook/docusaurus/raw/main/admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" style="visibility:visible;max-width:100%;" _mstalt="318006" _msthash="441">
+    </picture></themed-picture>
   </a>
 </p>
-
-[BrowserStack](http://www.browserstack.com/) supports us with [free access for open source](https://www.browserstack.com/open-source).
-
-[![Rocket Validator logo](./admin/img/rocketvalidator-logo.png)](https://rocketvalidator.com/)
-
-[Rocket Validator](https://rocketvalidator.com/) helps us find HTML markup or accessibility issues.
+<p dir="auto" _msttexthash="91397475" _msthash="442"><a href="http://www.browserstack.com/" rel="nofollow" _istranslated="1">BrowserStack</a> 支持我们<a href="https://www.browserstack.com/open-source" rel="nofollow" _istranslated="1">免费访问开源</a>。</p>
+<p dir="auto"><a href="https://rocketvalidator.com/" rel="nofollow"><img src="/facebook/docusaurus/raw/main/admin/img/rocketvalidator-logo.png" alt="Rocket Validator 徽标" style="max-width: 100%;" _mstalt="417846" _msthash="443"></a></p>
+<p dir="auto" _msttexthash="180881311" _msthash="444"><a href="https://rocketvalidator.com/" rel="nofollow" _istranslated="1">Rocket Validator</a> 帮助我们找到 HTML 标记或辅助功能问题。</p>
+</article></div>
